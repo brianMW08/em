@@ -270,6 +270,7 @@ HIGHLIGHTS
 .highlight__wrapper {
   display: flex;
   flex-wrap: wrap;
+  padding-top: 300px;
 }
 
 .highlight {
